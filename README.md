@@ -35,7 +35,7 @@ npm install react-native-reanimated react-native-gesture-handler react-native-sc
 O Stack Navigator permite a navegação entre as telas a partir de botões.
 
 ```
-npm install @react-navigation/stack @react-native-community/masked-view
+npm install @react-navigation/stack
 ```
 
 ## Tab Navigationor
